@@ -169,16 +169,7 @@ void iSpecialKeyboard(unsigned char key)
 		if(x>=50 && y>=230 && y<=280)
 			x=45;
 		if(x>=50 && y>=30 && y<=80)
-			x=45;
-		
-		
-
-
-
-
-
-
-			
+			x=45;		
 		 
 	}
 	if(key==GLUT_KEY_LEFT)
